@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=NAREN-105&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
