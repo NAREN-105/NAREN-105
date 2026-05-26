@@ -1,168 +1,208 @@
 <div align="center">
 
-<!--GLITCH HEADER-->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=NARENDARAN_M&fontSize=70&color=0:0f0c29,50:302b63,100:24243e&stroke=00fff5&strokeWidth=2&fontColor=00fff5&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Builder%20of%20Digital%20Realities&descAlignY=75&descSize=16&descColor=ffffff"/>
-
-</div>
-
-<div align="center">
-  
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  > INITIALIZING PROFILE...                                       ║
-║  > LOADING STACK: MERN • PYTHON • FLUTTER                        ║
-║  > STATUS: BUILDING THE FUTURE, ONE COMMIT AT A TIME             ║
-║  > LOCATION: INDIA  |  SIGNAL: STRONG  |  CAFFEINE: CRITICAL     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&text=NARENDARAN%20M&fontAlign=50&fontAlignY=45&fontSize=60&color=gradient&customColorList=12&stroke=ffffff&strokeWidth=1&desc=crafting%20the%20web%2C%20one%20function%20at%20a%20time.&descAlignY=68&descSize=17&animation=blinking&fontColor=ffffff" width="100%"/>
 
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## `> whoami`
-
-```yaml
-name       : Narendaran M
-alias      : NAREN-105
-role       : Full Stack Developer
-mindset    : "Code it. Ship it. Break it. Fix it better."
-based_in   : India 🇮🇳
-available  : Open to collabs & freelance
-superpower : Turning coffee into clean code ☕→💻
-secret     : 🥷 Vigilante (classified)
-```
-
-<br/>
-
-## `> cat contact.txt`
-
-```bash
-$ echo $EMAIL
-  narenrdkn@gmail.com
-
-$ curl --socials
-  ├── github    →  github.com/NAREN-105
-  ├── linkedin  →  linkedin.com/in/narendaran-m-rdknnkdr
-  ├── instagram →  @__naren_03
-  └── dev.to    →  dev.to/narendaran_m
-```
-
-<br clear="right"/>
-
----
-
-## `> ls ./skills -all`
-
 <div align="center">
 
-### ⬡ LANGUAGES
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ⬡ FRONTEND ARSENAL
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### ⬡ BACKEND ENGINE
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-### ⬡ DATABASE VAULT
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-</p>
-
-### ⬡ TOOLS & WEAPONS
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
+> *"Most people use the internet.*
+> *I build it."*
 
 </div>
 
 ---
 
-## `> ./run stats.sh`
+## ◈ THE ARCHITECT
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NAREN-105&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=00fff5&text_color=ffffff&ring_color=00fff5" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAREN-105&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=ffffff" />
-</div>
+<table>
+<tr>
+<td width="55%">
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=NAREN-105&theme=dark&hide_border=true&background=0d1117&ring=00fff5&fire=ff6e6e&currStreakLabel=00fff5&sideLabels=00fff5&dates=888888&stroke=00fff5" />
-</div>
+I don't just write code — I **engineer experiences**.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAREN-105&theme=react-dark&hide_border=true&bg_color=0d1117&color=00fff5&line=00fff5&point=ffffff&area=true&area_color=00fff5" width="100%"/>
-</div>
+From a Python NLP engine that answers your questions without touching a single ML library, to a cryptographic API that splits secrets using 200-year-old mathematics — my projects are built with a *why* behind every line.
+
+I'm **Narendaran M**, a full-stack developer from **India 🇮🇳**, armed with MERN, Python, Flutter, and a stubborn obsession with shipping things that actually work.
+
+**Open to collaborations. Always building. Never stopping.**
+
+</td>
+<td width="45%" align="center">
+
+```
+  ┌─────────────────────────────┐
+  │                             │
+  │   alias     →  NAREN-105    │
+  │   stack     →  MERN+Py+Fl   │
+  │   status    →  [ BUILDING ] │
+  │   location  →  India        │
+  │   caffeine  →  ████████ 87% │
+  │   bugs      →  ░░░░░░░░  4% │
+  │   sleep     →  ░░░░  20%    │
+  │                             │
+  └─────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `> ps aux | grep achievements`
+## ◈ MISSION LOG — PROJECTS THAT MATTER
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ⚡  Full-stack projects shipped end-to-end               │
-│   📱  Mobile apps live on Play Store via Flutter            │
-│   🌐  RESTful APIs built & deployed on GCP                  │
-│   🎨  UI/UX prototypes from Figma → Pixel-perfect code      │
-│   🔐  Auth systems: JWT, OAuth, Firebase                    │
-│   🚀  Always learning. Always building. Never stopping.     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
+> *Not a list of repos. A record of problems I hunted down and solved.*
 
 ---
 
-## `> tail -f /var/log/currently_vibing.log`
+### 🔴 MISSION 001 — THE MIND READER
 
-<div align="center">
+**`FINAL_REVIEW_CHATBOT`** · `Python` · `NLP` · `Tkinter`
+
+> *"Build a chatbot that understands documents — without using a single ML model."*
+
+Most people reach for TensorFlow. I reached for **pure algorithmic logic**.
+
+This chatbot ingests your PDFs, PowerPoints, and text files and answers natural language questions with **91% classification accuracy** across 7 question types — definitions, procedures, comparisons, yes/no — all driven by a custom multi-factor semantic scoring engine I built from scratch.
+
+- ✦ Sub-2-second responses. Zero internet required. Zero ML dependencies.
+- ✦ 34 custom regex patterns. 84 synonym mappings. 62 conversational elements.
+- ✦ Auto-generates 7–9 slide PowerPoint summaries from any document.
+- ✦ Built during **Infosys Springboard** internship. 1,200 lines. 8 weeks. One developer.
 
 ```python
-currently = {
-    "building"   : "Something you haven't seen yet 👀",
-    "learning"   : ["System Design", "DevOps", "AI Integration"],
-    "listening"  : "Lo-fi while debugging at 2AM 🎧",
-    "goal_2025"  : "Ship 5 products that matter",
-    "fun_fact"   : "I google things I already know, just to be sure 😅"
-}
+# The engine under the hood
+question → classify() → extract_concepts() → semantic_match()
+        → score_relevance() → generate_natural_response() → 🎯
 ```
+
+[![View Project](https://img.shields.io/badge/↗_VIEW_PROJECT-1a1a2e?style=for-the-badge)](https://github.com/NAREN-105/FINAL_REVIEW_CHATBOT)
+
+---
+
+### 🟠 MISSION 002 — THE SECRET KEEPER
+
+**`REST_API_USING_SSS`** · `JavaScript` · `Cryptography` · `REST`
+
+> *"Implement 1979 cryptographic mathematics as a production-grade API."*
+
+Shamir's Secret Sharing was invented before the internet existed. I turned it into a **3-endpoint REST API**.
+
+Split any secret among `n` people. Set a threshold `k`. Unless `k` people collaborate, the secret is **mathematically unrecoverable** — not just encrypted, but *provably* unknowable. Reconstruction uses Lagrange polynomial interpolation over a finite field.
+
+```
+POST /split        →  secret + n + k  →  n unique shares
+POST /reconstruct  →  k shares        →  original secret
+GET  /info         →  API metadata
+```
+
+- ✦ Real-world cryptography. Not a tutorial. Fully functional endpoints.
+- ✦ The math: each share is a point on a polynomial of degree k-1.
+- ✦ Fewer than k points = zero information about the secret. None. Ever.
+
+[![View Project](https://img.shields.io/badge/↗_VIEW_PROJECT-1a1a2e?style=for-the-badge)](https://github.com/NAREN-105/REST_API_USING_SSS)
+
+---
+
+### 🟡 MISSION 003 — THE INCIDENT COMMANDER
+
+**`AI-DevOps-Incident-Management`** · `React` · `Flask` · `PostgreSQL` · `JWT`
+
+> *"Replace the chaos of email chains with a real-time incident command center."*
+
+When a server goes down at 3AM, nobody should be Googling their manager's number. I built the alternative — a full-stack incident management dashboard modeled after **Jira and ServiceNow**, but built solo, deployed live.
+
+The AI layer reads your incident description and **automatically classifies severity** (Critical / High / Medium / Low) before a human even processes it.
+
+- ✦ Full auth system with JWT tokens
+- ✦ Live Recharts dashboard — see everything at a glance
+- ✦ Status lifecycle: `Open` → `In Progress` → `Resolved`
+- ✦ React frontend + Python Flask backend + PostgreSQL — the full stack, no shortcuts
+- ✦ **Live demo:** [ai-dev-ops-incident-management.vercel.app](https://ai-dev-ops-incident-management.vercel.app) · `admin / admin123`
+
+[![View Project](https://img.shields.io/badge/↗_VIEW_PROJECT-1a1a2e?style=for-the-badge)](https://github.com/NAREN-105/AI-DevOps-Incident-Management) [![Live Demo](https://img.shields.io/badge/↗_LIVE_DEMO-e63946?style=for-the-badge)](https://ai-dev-ops-incident-management.vercel.app)
+
+---
+
+### 🟢 MISSION 004 — THE LOAN ORACLE
+
+**`LOAN-APPROVAL-PREDICTOR`** · `Python` · `ML` · `Data Science`
+
+> *"Predict whether a bank will say yes — before you walk in."*
+
+A machine learning model trained to classify loan approval outcomes. Real data. Real predictions.
+
+[![View Project](https://img.shields.io/badge/↗_VIEW_PROJECT-1a1a2e?style=for-the-badge)](https://github.com/NAREN-105/LOAN-APPORVAL-PREDICTOR)
+
+---
+
+### 🔵 MISSION 005 — THE PORTFOLIO
+
+**`NAREN-105.github.io`** · `HTML` · `CSS` · `JavaScript`
+
+> *"Every developer needs a home. I built mine."*
+
+[![View Project](https://img.shields.io/badge/↗_VIEW_PROJECT-1a1a2e?style=for-the-badge)](https://github.com/NAREN-105/NAREN-105.github.io) [![Visit Site](https://img.shields.io/badge/↗_VISIT_SITE-457b9d?style=for-the-badge)](https://naren-105.github.io)
+
+---
+
+## ◈ ARSENAL
+
+<div align="center">
+
+| Layer | Technologies |
+|:---:|:---|
+| **Frontend** | React · Next.js · Flutter · Tailwind CSS · Bootstrap · HTML · CSS |
+| **Backend** | Node.js · Express.js · Django · Flask · REST APIs |
+| **Languages** | JavaScript · TypeScript · Python · Dart · C |
+| **Databases** | MongoDB · PostgreSQL · MySQL · Firebase |
+| **Security** | JWT · Shamir's Secret Sharing · OAuth |
+| **AI / Data** | NLP · scikit-learn · Pandas · Custom Classifiers |
+| **Tools** | Git · Figma · Postman · VS Code · GCP · Android Studio |
+
+</div>
+
+---
+
+## ◈ NUMBERS
+
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=NAREN-105&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=f1faee&ring_color=e63946&include_all_commits=true&count_private=true"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAREN-105&layout=compact&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=f1faee"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=NAREN-105&hide_border=true&background=0d1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=888888&dates=555555&stroke=e63946"/>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAREN-105&theme=react-dark&hide_border=true&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true"/>
+</div>
+
+---
+
+## ◈ SIGNAL
+
+<div align="center">
+
+*I don't just accept collabs. I pick the ones worth building.*
+
+If you have a **real problem** to solve and want someone who will care about it as much as you do — reach out.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendaran-m-rdknnkdr)
+[![Email](https://img.shields.io/badge/Email-narenrdkn@gmail.com-e63946?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narenrdkn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-naren--105.github.io-1d3557?style=for-the-badge&logo=githubpages&logoColor=white)](https://naren-105.github.io)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/narendaran_m)
+[![Instagram](https://img.shields.io/badge/Instagram-__naren__03-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__naren_03)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=NAREN-105&style=for-the-badge&color=e63946&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -170,26 +210,6 @@ currently = {
 
 <div align="center">
 
-### `> ping NAREN-105 --collab`
-
-```
-PING NAREN-105... Response received ✓
-Latency: FAST
-Status: READY TO BUILD SOMETHING INSANE WITH YOU
-```
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendaran-m-rdknnkdr)
-[![Email](https://img.shields.io/badge/Send_A_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narenrdkn@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_On_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NAREN-105)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=NAREN-105&style=for-the-badge&color=00fff5&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&text=Thanks%20for%20visiting%20my%20lair%20👾&fontSize=18&fontColor=00fff5&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20reading%20all%20the%20way%20down.&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 </div>
