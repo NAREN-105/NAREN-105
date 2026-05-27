@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=280&text=NARENDARAN%20M&fontAlign=50&fontAlignY=45&fontSize=60&color=gradient&customColorList=12&stroke=ffffff&strokeWidth=1&desc=crafting%20the%20web%2C%20one%20function%20at%20a%20time.&descAlignY=68&descSize=17&animation=blinking&fontColor=ffffff" width="100%"/>
 
+
 </div>
 
 ---
