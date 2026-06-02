@@ -412,7 +412,7 @@ The portfolio that says more about me than any resume ever could.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAREN-105&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820"/>
+<img width="95%" src="https://raw.githubusercontent.com/NAREN-105/NAREN-105/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
