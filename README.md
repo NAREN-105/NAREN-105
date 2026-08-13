@@ -16,6 +16,7 @@
 <a href="https://naren-105.github.io"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B"/></a>
 <a href="https://dev.to/narendaran_m"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=1E293B"/></a>
 <a href="https://github.com/NAREN-105"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B"/></a>
+<a href="https://leetcode.com/u/NARENDARAN_M/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0F172A&labelColor=1E293B"/></a>
 
 <br/><br/>
 
@@ -139,7 +140,45 @@ I'm a full-stack engineer who **deeply understands** a problem before writing a 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════ -->
+<!-- LEETCODE SECTION -->
+<!-- ═══════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd783.gif" width="100%" height="3"/>
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&color=38BDF8&center=true&vCenter=false&width=500&lines=%E2%96%B8%20LEETCODE%20JOURNEY" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- LeetCode Stats Card -->
+<img width="420" src="https://leetcode-stats.vercel.app/api?username=NARENDARAN_M&theme=dark_chart&border_radius=12&hide_rank=true" alt="LeetCode Stats"/>
+
 <br/><br/>
+
+<!-- LeetCode Skill Bars -->
+<img width="420" src="https://leetcard.jacoblin.cool/NARENDARAN_M?theme=dark&font=JetBrains&ext=activity&border_radius=12" alt="LeetCode Card"/>
+
+<br/><br/>
+
+<!-- Problem Solving Badges -->
+<a href="https://leetcode.com/u/NARENDARAN_M/"><img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=0F172A&labelColor=1E293B"/></a>
+<img src="https://img.shields.io/badge/Problem_Solving-38BDF8?style=for-the-badge&logo=codeforces&logoColor=0F172A"/>
+<img src="https://img.shields.io/badge/DSA-22C55E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlnb24gcG9pbnRzPSIxMiAyIDIyIDguNSAyMiAxNS41IDEyIDIyIDIgMTUuNSAyIDguNSAxMiAyIi8+PC9zdmc+&logoColor=white&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Algorithms-F59E0B?style=for-the-badge&logo=algorithm&logoColor=0F172A"/>
+
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════════════════ -->
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ═══════════════════════════════════════ -->
@@ -154,7 +193,7 @@ I'm a full-stack engineer who **deeply understands** a problem before writing a 
 
 <br/>
 
-<!-- Project 1 -->
+<!-- Project 1 - Featured Spotlight -->
 <table>
 <tr>
 <td width="100%">
@@ -329,35 +368,42 @@ I'm a full-stack engineer who **deeply understands** a problem before writing a 
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <a href="https://www.linkedin.com/in/narendaran-m-rdknnkdr">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B&logoSize=20"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Connect-94A3B8?style=flat-square&labelColor=0F172A"/>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <a href="mailto:narenrdkn@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E293B&logoSize=20"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Write_Me-94A3B8?style=flat-square&labelColor=0F172A"/>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <a href="https://naren-105.github.io">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B&logoSize=20"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Explore-94A3B8?style=flat-square&labelColor=0F172A"/>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
+<a href="https://leetcode.com/u/NARENDARAN_M/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0F172A&labelColor=1E293B&logoSize=20"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Challenge_Me-94A3B8?style=flat-square&labelColor=0F172A"/>
+</a>
+</td>
+<td align="center" width="16%">
 <a href="https://dev.to/narendaran_m">
 <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=1E293B&logoSize=20"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Read_Blog-94A3B8?style=flat-square&labelColor=0F172A"/>
 </a>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <a href="https://www.instagram.com/__naren_03">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1E293B&logoSize=20"/>
 <br/><br/>
