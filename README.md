@@ -140,26 +140,6 @@ I'm a full-stack engineer who **deeply understands** a problem before writing a 
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════ -->
-<!-- LEETCODE SECTION -->
-<!-- ═══════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-5353767cd783.gif" width="100%" height="3"/>
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&color=38BDF8&center=true&vCenter=false&width=500&lines=%E2%96%B8%20LEETCODE%20JOURNEY" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- LeetCode Stats Card -->
-<img width="420" src="https://leetcode-stats.vercel.app/api?username=NAREN-105&theme=dark_chart&border_radius=12&hide_rank=true" alt="LeetCode Stats"/>
 
 <br/><br/>
 
