@@ -139,24 +139,7 @@ I'm a full-stack engineer who **deeply understands** a problem before writing a 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
-
-
 <br/><br/>
-
-<!-- LeetCode Skill Bars -->
-<img width="420" src="https://leetcard.jacoblin.cool/NAREN-105?theme=dark&font=JetBrains&ext=activity&border_radius=12" alt="LeetCode Card"/>
-
-<br/><br/>
-
-<!-- Problem Solving Badges -->
-<img src="https://img.shields.io/badge/Problem_Solving-38BDF8?style=for-the-badge&logo=codeforces&logoColor=0F172A"/>
-<img src="https://img.shields.io/badge/DSA-22C55E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBvbHlnb24gcG9pbnRzPSIxMiAyIDIyIDguNSAyMiAxNS41IDEyIDIyIDIgMTUuNSAyIDguNSAxMiAyIi8+PC9zdmc+&logoColor=white&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Algorithms-F59E0B?style=for-the-badge&logo=algorithm&logoColor=0F172A"/>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════ -->
 <!-- FEATURED PROJECTS SECTION -->
 <!-- ═══════════════════════════════════════ -->
